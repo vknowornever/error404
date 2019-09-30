@@ -1,0 +1,22 @@
+  .ui-g {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    width: 920px;
+    /* margin-top: -122px; */
+  }
+  .row1{
+    margin-top: -25px;
+  }
+  .row {
+    margin-right: 90px;
+    margin-left: 0px;
+  }
+  form.form-inline.mr-auto.ng-untouched.ng-pristine.ng-valid {
+    margin-top: 60px;
+}
+.col-sm-3{
+  margin-top: 40px;
+}
